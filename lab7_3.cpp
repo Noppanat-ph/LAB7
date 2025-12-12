@@ -12,6 +12,7 @@ char before(char x){
 	}else if(x != 'A'){
 		return x-1;
 	}
+	return 0;
 
 }
 
